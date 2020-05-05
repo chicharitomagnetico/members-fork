@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Members Fork
- * Plugin URI:  https://themehybrid.com/plugins/members
+ * Plugin URI:  https://github.com/chicharitomagnetico/members
  * Description: A user and role management plugin that puts you in full control of your site's permissions. This plugin allows you to edit your roles and their capabilities, clone existing roles, assign multiple roles per user, block post content, or even make your site completely private.
  * Version:     2.2.0
  * Author:      Justin Tadlock
