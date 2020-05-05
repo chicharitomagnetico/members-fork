@@ -1,4 +1,6 @@
-# Members
+# Members Fork
+
+Since the Members Plugin was Fked'up by MemberPress this is a Fork of the original Justin Tadlock plugin, I've changed the name so it doesn't update automatically to the MemberPress version
 
 Members is a plugin that extends your control over your blog.  It's a user, role, and capability management plugin that was created to make WordPress a more powerful CMS.
 
